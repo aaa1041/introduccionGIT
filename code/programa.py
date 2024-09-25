@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Jul 17 10:19:31 2024
+Created on Thu Sep 26 1:15:00 2024
 
-@author: dgarcia1
+@author: aaa1041
 """
 
-print("Hola Mundo!")
+print("Programa nuevo")
